@@ -2,7 +2,7 @@
 
 ### Hello! Welcome to my GitHub profile! 
 
-I'm a Software Engineer passionate about technology, programming, and software development. I'm always looking to improve my skills, explore new technologies, and build solutions that turn ideas into reality.
+I'm a Software Engineer technology, programming, and software development. I'm always looking to improve my skills, explore new technologies, and build solutions that turn ideas into reality.
 
 ---
 
